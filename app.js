@@ -105,10 +105,15 @@ const flowCuentasP = addKeyword (EVENTS.ACTION)
   }
   console.log('Mensaje entrante:', ctx.body);
 })
-.addAnswer(['Captura recibida ✅ ',
-  'Por favor, envienos su nombre completo y que seguro medico utiliza.',
-  'Por ejemplo: *Maria Gonzalez Perez, Seguro Senasa*'
+.addAnswer(['Captura recibida ✅ '
 ])
+.addAnswer( 'Por favor, envienos su nombre completo y que seguro medico utiliza.',
+  'Por ejemplo: *Maria Gonzalez Perez, Seguro Senasa*', {capture:true}, (ctx, {fallBack}) => {
+  if (!ctx.body.toLowerCase().includes('senasa','humano','primera','yunen','mapfre','aps','renacer','futuro','meta salud')) {
+      return fallBack();
+  }
+  console.log('Mensaje entrante:', ctx.body);
+})
 
  const cuentasFlow = addKeyword(['cuentas']).addAnswer(
      cuentas,
