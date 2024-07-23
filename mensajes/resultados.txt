@@ -5,8 +5,6 @@ Estos son los resultados PAP/Biopsia:
 ✅ *2839*/Senasa/ PAP
 ✅ *5610*/Senasa/ PAP
 ✅ *3019*/Senasa/ PAP
-✅ *5229*/Senasa/ PAP
-✅ *129*/Senasa/ PAP
 
 ❌ *6019*/Senasa/ PAP
 ❌ *6874*/Senasa/ PAP
