@@ -1,0 +1,435 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '18297827338@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05518E05BE8944487E5',
+    participant: undefined
+  },
+  messageTimestamp: 1721739778,
+  pushName: 'Gabriela Hinojosa',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '18297827338'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6c8ce0d2-67e3-4578-b4a5-59611c0f0608',
+  keyword: 'key_26cb1d0e-ce14-404e-8a04-766f759ab0c6',
+  answer: 'Gracias por comunicarse con el Dr. Baralt',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd54ba6c8b0f34d185dee07ea92d5be28'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8f270724-35cc-4694-8811-00902e809aad',
+  keyword: 'ans_6c8ce0d2-67e3-4578-b4a5-59611c0f0608',
+  answer: 'En estos momentos no podemos atender su mensaje, a la mayor brevedad posible lo haremos, Dios mediante.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '47c456e6c31581f06bd3e54f90097967'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_047d658a-9d79-462d-aef0-de682b855bff',
+  keyword: 'ans_8f270724-35cc-4694-8811-00902e809aad',
+  answer: '🚫 No se hacen consultas medicas por esta vía,\n' +
+    '🚫 No lectura de resultados ni recetamos por WhatsApp\n' +
+    '✅ Si es paciente del Doctor y tiene una urgencia y debe comunicarse con el directamente, por favor llame al *809-775-8194*.\n' +
+    '🔔 El doctor llega a la consulta a partir de las 10:00 AM\n' +
+    '*Dios le bendiga*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '98d0ae52106d7938ec13182192430268'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_335242c3-3de0-4a63-881a-e31b3347098c',
+  keyword: 'ans_047d658a-9d79-462d-aef0-de682b855bff',
+  answer: 'Para mas informacion, por favor, escriba: *Menú*.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9504b0edecc699794195e7db2b20799c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18297827338@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB017DE90E389A06EBE10',
+    participant: undefined
+  },
+  messageTimestamp: 1721739786,
+  pushName: 'Gabriela Hinojosa',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '18297827338'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_04a0c0b8-bfdb-44eb-9de7-8db272963032',
+  keyword: 'key_5e21fdc6-ae17-497b-81d7-46dd21a89b3a',
+  answer: '*Elija una de las opciones segun su caso:*\n' +
+    '\n' +
+    '1. 🖋️ Deseo agendar una cita.\n' +
+    '\n' +
+    '2. 🧰 Cartera de Servicios.\n' +
+    '\n' +
+    '3. 📩 Resultados PAP/Biopsia.\n' +
+    '\n' +
+    '4. 🟢 Duda sobre algun tratamiento o receta. \n' +
+    '\n' +
+    '5. 📝 Cambios en la RECETA o necesita una LICENCIA MEDICA.\n' +
+    '\n' +
+    '6. 🗯️ Estoy EMBARAZADA, debo hablar con el doctor.\n' +
+    '\n' +
+    '7. 🙅‍♀️ Ninguna de las anteriores.\n' +
+    '\n' +
+    '\n' +
+    '0. Salir ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e28c622602adeda7700cdd6aa749b28a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18297827338@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06DCD16BEBDDBADE8C0',
+    participant: undefined
+  },
+  messageTimestamp: 1721739790,
+  pushName: 'Gabriela Hinojosa',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '18297827338'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18297827338@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB02903ABE7DD61A46F53',
+    participant: undefined
+  },
+  messageTimestamp: 1721739793,
+  pushName: 'Gabriela Hinojosa',
+  broadcast: false,
+  message: Message {
+    conversation: 'ok',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ok',
+  from: '18297827338'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_31af2144-5904-449f-b656-c9fac8269084',
+  keyword: 'ans_6e6dc863-4656-48ca-a451-4b8a8816b37d',
+  answer: 'Enviando Cuentas Bancarias (BHD, Popular, Banreservas).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5e3ee8f7391bd20ea08a3dccfb8e714f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b3c9cf30-b6c3-4baf-b4c0-cb72523d121a',
+  keyword: 'ans_31af2144-5904-449f-b656-c9fac8269084',
+  answer: 'Responda *"cuentas"* para continuar',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '150f9fad2effa24abcffe55c5be9b51c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18297827338@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C2042D3ABB38343560',
+    participant: undefined
+  },
+  messageTimestamp: 1721739797,
+  pushName: 'Gabriela Hinojosa',
+  broadcast: false,
+  message: Message {
+    conversation: 'cuentas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'cuentas',
+  from: '18297827338'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2ec161cb-be23-4fd7-9e2a-c312ec6eb67a',
+  keyword: 'key_878061ed-6122-4466-98f4-58b951c1136e',
+  answer: '*Elige una:*\n\n1. Banreservas\n\n2. Banco BHD\n\n3. Banco Popular\n\n0. Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '1eeccc1a69facf61022c247cded1e227'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18297827338@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB040033F5110BF3CD3DB',
+    participant: undefined
+  },
+  messageTimestamp: 1721739800,
+  pushName: 'Gabriela Hinojosa',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '18297827338'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18297827338@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0BE337D3773B4813852',
+    participant: undefined
+  },
+  messageTimestamp: 1721739816,
+  pushName: 'Gabriela Hinojosa',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '18297827338'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_04a0c0b8-bfdb-44eb-9de7-8db272963032',
+  keyword: 'key_5e21fdc6-ae17-497b-81d7-46dd21a89b3a',
+  answer: '*Elija una de las opciones segun su caso:*\n' +
+    '\n' +
+    '1. 🖋️ Deseo agendar una cita.\n' +
+    '\n' +
+    '2. 🧰 Cartera de Servicios.\n' +
+    '\n' +
+    '3. 📩 Resultados PAP/Biopsia.\n' +
+    '\n' +
+    '4. 🟢 Duda sobre algun tratamiento o receta. \n' +
+    '\n' +
+    '5. 📝 Cambios en la RECETA o necesita una LICENCIA MEDICA.\n' +
+    '\n' +
+    '6. 🗯️ Estoy EMBARAZADA, debo hablar con el doctor.\n' +
+    '\n' +
+    '7. 🙅‍♀️ Ninguna de las anteriores.\n' +
+    '\n' +
+    '\n' +
+    '0. Salir ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e28c622602adeda7700cdd6aa749b28a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18297827338@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C34618800DC0F3AF44',
+    participant: undefined
+  },
+  messageTimestamp: 1721739819,
+  pushName: 'Gabriela Hinojosa',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '18297827338'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18297827338@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB080EB2D93A15F06819D',
+    participant: undefined
+  },
+  messageTimestamp: 1721739827,
+  pushName: 'Gabriela Hinojosa',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '18297827338'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_04a0c0b8-bfdb-44eb-9de7-8db272963032',
+  keyword: 'key_5e21fdc6-ae17-497b-81d7-46dd21a89b3a',
+  answer: '*Elija una de las opciones segun su caso:*\n' +
+    '\n' +
+    '1. 🖋️ Deseo agendar una cita.\n' +
+    '\n' +
+    '2. 🧰 Cartera de Servicios.\n' +
+    '\n' +
+    '3. 📩 Resultados PAP/Biopsia.\n' +
+    '\n' +
+    '4. 🟢 Duda sobre algun tratamiento o receta. \n' +
+    '\n' +
+    '5. 📝 Cambios en la RECETA o necesita una LICENCIA MEDICA.\n' +
+    '\n' +
+    '6. 🗯️ Estoy EMBARAZADA, debo hablar con el doctor.\n' +
+    '\n' +
+    '7. 🙅‍♀️ Ninguna de las anteriores.\n' +
+    '\n' +
+    '\n' +
+    '0. Salir ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e28c622602adeda7700cdd6aa749b28a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18297827338@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0E21BA9576CBBFB1DDD',
+    participant: undefined
+  },
+  messageTimestamp: 1721739836,
+  pushName: 'Gabriela Hinojosa',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '18297827338'
+}

@@ -1,0 +1,18 @@
+*Elija una de las opciones segun su caso:*
+
+1. 🖋️ Deseo agendar una cita.
+
+2. 🧰 Cartera de Servicios.
+
+3. 📩 Resultados PAP/Biopsia.
+
+4. 🟢 Duda sobre algun tratamiento o receta. 
+
+5. 📝 Cambios en la RECETA o necesita una LICENCIA MEDICA.
+
+6. 🗯️ Estoy EMBARAZADA, debo hablar con el doctor.
+
+7. 🙅‍♀️ Ninguna de las anteriores.
+
+
+0. Salir 
