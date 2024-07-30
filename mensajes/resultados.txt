@@ -6,8 +6,12 @@ Estos son los resultados PAP/Biopsia:
 ✅ *5610*/Senasa/ PAP
 ✅ *3019*/Senasa/ PAP
 
-❌ *148*/Senasa/ PAP
-❌ *6874*/Senasa/ PAP
-❌ *7701*/Senasa/ PAP
+❌ *3609-16*/Senasa/ PAP
+❌ *6407-22*/Primera Humano/ PAP
+❌ *1359-12*/Privado/ PAP
+❌ *1308-12*/Senasa/ PAP
+❌ *679-11*/Privado/ PAP
+❌ *3609-16*/Senasa/ PAP
+❌ *148-10/Senasa/ PAP
 
 Para volver al menú principal, escriba *"menú"*.
