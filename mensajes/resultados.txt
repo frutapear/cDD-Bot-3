@@ -12,6 +12,9 @@ Estos son los resultados PAP/Biopsia:
 ❌ *1308-12*/Senasa/ PAP
 ❌ *679-11*/Privado/ PAP
 ❌ *3609-16*/Senasa/ PAP
-❌ *148-10/Senasa/ PAP
+❌ *148-10*/Senasa/ PAP
+❌ *5503-20*/Mapfre/ PAP
+❌ *6833-23*/Yunen/ PAP
+❌ *6553-22*/Senasa/ PAP
 
 Para volver al menú principal, escriba *"menú"*.
