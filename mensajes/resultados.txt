@@ -1,6 +1,7 @@
 Estos son los resultados PAP/Biopsia:
 ✅ disponibles ❌ no disponibles
 
+✅ *148-10*/Senasa/ PAP
 ✅ *7748*/Senasa/ PAP
 ✅ *2839*/Senasa/ PAP
 ✅ *5610*/Senasa/ PAP
@@ -12,9 +13,11 @@ Estos son los resultados PAP/Biopsia:
 ❌ *1308-12*/Senasa/ PAP
 ❌ *679-11*/Privado/ PAP
 ❌ *3609-16*/Senasa/ PAP
-❌ *148-10*/Senasa/ PAP
 ❌ *5503-20*/Mapfre/ PAP
 ❌ *6833-23*/Yunen/ PAP
 ❌ *6553-22*/Senasa/ PAP
+❌ *5483-20*/Privado/ PAP
+❌ *3226-15*/Senasa/ PAP
+❌ *6808-23*/Senasa/ PAP
 
 Para volver al menú principal, escriba *"menú"*.
