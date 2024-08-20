@@ -7,19 +7,22 @@ Estos son los resultados PAP/Biopsia:
 ✅ *2839*/Senasa/ PAP
 ✅ *5610*/Senasa/ PAP
 ✅ *3019*/Senasa/ PAP
+✅ *5503-20*/Mapfre/ PAP
+✅ *6833-23*/Yunen/ PAP
+✅ *1308-12*/Senasa/ PAP
+✅ *6407-22*/Primera Humano/ PAP
+✅ *679-11*/Privado/ PAP
 
 ❌ *6613-22*/Senasa/ PAP
 ❌ *6403-22*/Privado/ PAP
-❌ *6407-22*/Primera Humano/ PAP
 ❌ *1359-12*/Privado/ PAP
-❌ *1308-12*/Senasa/ PAP
-❌ *679-11*/Privado/ PAP
 ❌ *3609-16*/Senasa/ PAP
-❌ *5503-20*/Mapfre/ PAP
-❌ *6833-23*/Yunen/ PAP
 ❌ *6553-22*/Senasa/ PAP
 ❌ *5483-20*/Privado/ PAP
 ❌ *3226-15*/Senasa/ PAP
 ❌ *6808-23*/Senasa/ PAP
+❌ *7071-24*/Senasa/ PAP
+❌ *7059-24*/Privado/ ARN APTIMA
+❌ *6645-22*/Privado/ BIOPSIA
 
 Para volver al menú principal, escriba *"menú"*.
